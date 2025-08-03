@@ -1,4 +1,4 @@
-# 🏫 NYC High School SAT Performance Analysis
+# NYC High School SAT Performance Analysis
 
 This project explores and analyzes SAT performance across New York City public high schools. Using a dataset containing average scores in Math, Critical Reading, and Writing, we extract meaningful insights and identify trends in student performance across boroughs.
 
